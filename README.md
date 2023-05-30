@@ -1,7 +1,7 @@
 # DayScheduler
 
 ## The Task
-```
+```md
 Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 ```
 ## User Story
@@ -29,11 +29,17 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
+## Mock up
+The following image shows the application functionality:
+![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/Work-Day-Scheduler.png)
+
 ## GitHub Link
 ```
 https://github.com/RenanLodi/DayScheduler.git
 ```
 
 ## Deployment Link
-
+```
+https://renanlodi.github.io/DayScheduler/
+```
 
